@@ -3,7 +3,8 @@ This project was created for #saycheese, a Hack Club event challenging developer
 I developed a classic checkers game using JavaScript.
 In this repo you can find the full version of the game by clicking [here](https://gabdevele.github.io/checkers/)
 or try out the qr code version by scanning the qr code below or by just clicking [here](https://gabdevele.github.io/checkers/minified).
-
+## Qr code to scan
+![QR](https://github.com/gabdevele/CheckersQrCode/blob/main/assets/saycheese.png?raw=true)
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c02d9e13-3234-4877-9034-57b4c2fa5685)
 ![image](https://github.com/user-attachments/assets/9b69fff2-6904-45c2-9ece-210e51817ddf)
